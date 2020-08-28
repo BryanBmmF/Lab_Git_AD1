@@ -1,2 +1,8 @@
 //inio repositorio
+<<<<<<< HEAD
 algo nuevo con commit
+=======
+n
+n
+n
+>>>>>>> hotfix
