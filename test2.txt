@@ -1,10 +1,8 @@
 desde feature
 nuevo cambio para hacer rebase
 otro cambio para rebase
-<<<<<<< HEAD
 
 cambio para rebase interactivo
 otro cambio para rebase interactivo
-para hotfix
-=======
->>>>>>> parent of 33ea5cb... commit 5 rebase interactivo
+ parent of 33ea5cb... commit 5 rebase interactivo
+nanana
